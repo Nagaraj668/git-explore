@@ -1,1 +1,4 @@
 development-feature.txt
+
+fixing some bugs
+
