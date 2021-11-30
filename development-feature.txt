@@ -2,3 +2,5 @@ development-feature.txt some different change on first line
 
 
 fixing some bugs
+one more line added
+
