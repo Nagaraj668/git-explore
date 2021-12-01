@@ -2,4 +2,4 @@ new feature added
 nf change2
 nf change
 new change feature
-
+local conflict
